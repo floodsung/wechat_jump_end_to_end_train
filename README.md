@@ -6,7 +6,9 @@ pytorch
 
 ## How to use it
 
-place dataset in this folder, then
+Download the dataset from [Baidu Yun](https://pan.baidu.com/s/1o9NNvqq)
+
+Place the dataset in this folder, then
 
 ```
 python train.py
